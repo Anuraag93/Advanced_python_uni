@@ -1,0 +1,16 @@
+D1,Slot1,R1;S12
+D1,Slot1,R2;S6
+D1,Slot2,R1;S8
+D1,Slot2,R2;S4
+D1,Slot3,R1;S10
+D1,Slot3,R2;S7
+D2,Slot1,R1;S11
+D2,Slot1,R2;S5
+D2,Slot2,R1;S13
+D2,Slot2,R2;S1
+D2,Slot3,R1;S9
+D2,Slot3,R2;S2
+
+Supervisor penalty:0
+Panel Penalty:14
+Total Penalty:14
